@@ -1,6 +1,6 @@
-# Production-Style Kafka KRaft on KinD
+# Production-Style Kafka KRaft
 
-This repository provides a hands-on, production-oriented Kafka cluster running on a local KinD Kubernetes cluster using the Strimzi Kafka Operator.
+This repository provides a hands-on, production-oriented Kafka cluster running on a local Kubernetes cluster using the Strimzi Kafka Operator.
 
 It is designed as a learning and portfolio project for Kafka platform engineering, SRE, and distributed systems operations.
 
